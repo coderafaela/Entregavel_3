@@ -100,31 +100,31 @@ Para as rotas POST, configure a requisição em **Body > raw > JSON** e envie o 
 
 Verifica se o servidor está no ar. Retorna `Oi, mundo :-)`.
 
-![GET /](https://drive.google.com/file/d/1iL1o1o4GCx4tgA42a-yFPr2eRCJUYsn6/view?usp=drive_link)
+![GET /](https://drive.google.com/thumbnail?id=1iL1o1o4GCx4tgA42a-yFPr2eRCJUYsn6&sz=w1600)
 
 ### 2. POST `/soma`
 
 Resultado esperado: `O resultado da soma de 10 e 5 é 15`
 
-![POST /soma](https://drive.google.com/file/d/1I0mb1zOQeDh5-Di2fHqkqydJdfqKTpYQ/view?usp=sharing)
+![POST /soma](https://drive.google.com/thumbnail?id=1I0mb1zOQeDh5-Di2fHqkqydJdfqKTpYQ&sz=w1600)
 
 ### 3. POST `/subtracao`
 
 Resultado esperado: `O resultado da subtração de 10 e 5 é 5`
 
-![POST /subtracao](https://drive.google.com/file/d/1SDOjqZO1zXLiHNEwEH6fDGmWT9NbzVnI/view?usp=sharing)
+![POST /subtracao](https://drive.google.com/thumbnail?id=1SDOjqZO1zXLiHNEwEH6fDGmWT9NbzVnI&sz=w1600)
 
 ### 4. POST `/divisao`
 
 Resultado esperado: `O resultado da divisão de 10 e 5 é 2`
 
-![POST /divisao](https://drive.google.com/file/d/1ABJbMIEBHUX3f2bbwclwtP51dZYDjuHp/view?usp=sharing)
+![POST /divisao](https://drive.google.com/thumbnail?id=1ABJbMIEBHUX3f2bbwclwtP51dZYDjuHp&sz=w1600)
 
 ### 5. POST `/multiplicacao`
 
 Resultado esperado: `O resultado da multiplicação de 10 e 5 é 50`
 
-![POST /multiplicacao](https://drive.google.com/file/d/1IH0D6OuwT-JxEolACVQ0iHk1qFazZsCo/view?usp=sharing)
+![POST /multiplicacao](https://drive.google.com/thumbnail?id=1IH0D6OuwT-JxEolACVQ0iHk1qFazZsCo&sz=w1600)
 
 ## Código-fonte
 
